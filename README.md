@@ -41,3 +41,6 @@ python manage.py runserver
 ```
 
 ![Settings Window](https://github.com/rajpatel-rp7/Online-Job-Portal/blob/7e02c5d0581e3034e87a3ec80b5e21feb0292074/screenshots/Image%2003-04-23%20at%2012.19%20AM.jpg)
+<br/>
+<br/>
+![Settings Window](https://github.com/rajpatel-rp7/Online-Job-Portal/blob/e4fdc3f771446538e93e950dec2c625705bb21e7/screenshots/Image%2003-04-23%20at%2012.21%20AM%20(1).jpg)
