@@ -39,3 +39,5 @@ python manage.py collectstatic
 ```
 python manage.py runserver
 ```
+
+![Settings Window](https://github.com/rajpatel-rp7/Online-Job-Portal/blob/7e02c5d0581e3034e87a3ec80b5e21feb0292074/screenshots/Image%2003-04-23%20at%2012.19%20AM.jpg)
